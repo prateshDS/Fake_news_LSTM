@@ -1,4 +1,7 @@
 # Fake_news_classifier_LSTM
+
+DataSource: https://www.kaggle.com/c/fake-news/data#
+
 Fake news classifier using LSTM.
 accuracy score: 0.9133 after performing hyperparameter tunning: Dropout
 
